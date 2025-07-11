@@ -31,3 +31,14 @@ print("helloworld!")
 
 git config --global user.name "paloma966"
 git config --global user.email xiejunbo2580@163.com
+
+## 新设备下载
+
+git clone
+https://github.com/Paloma966/Note.git
+git pull Note main
+
+git commit -m ""
+
+# docker
+
