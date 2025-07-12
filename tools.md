@@ -46,6 +46,7 @@ git pull Note main
 
 ```bash
 git commit -m "time"
+git push Note main
 ```
 
 # docker
